@@ -1,0 +1,3 @@
+[submodule "adwaita-cursors"]
+	path = adwaita-cursors
+	url = https://github.com/drepper/adwaita-cursors.git
